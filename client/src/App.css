@@ -1,0 +1,14 @@
+body{
+    background: rgb(235, 235, 235);
+}
+
+.navbar{
+    border-bottom: 10px solid #007BFF;
+}
+
+.component-container{
+    padding: 40px;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+    margin-top: 5vh;
+}
